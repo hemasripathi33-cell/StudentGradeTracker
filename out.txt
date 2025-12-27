@@ -1,0 +1,9 @@
+------ Student Grade Report ------
+Name: Teja | Marks: 85
+Name: Bhargavi | Marks: 92
+Name: Vadhansh | Marks: 78
+Name: Hanvika | Marks: 88
+----------------------------------
+Average Marks : 85.75
+Highest Marks : 92
+Lowest Marks  : 78
